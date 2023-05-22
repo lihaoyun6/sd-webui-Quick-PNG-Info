@@ -1,13 +1,14 @@
 # Quick PNG Info
 [[中文版]](./README_zh.md)  
-Embed PNG Info into the txt2imga and img2img tabs, you can use it without leaving the tab    
+Embed "PNG Info" into the txt2imga and img2img tabs, you can use it without leaving the tab    
 
 ## Screenshot
 <img src="./images/ui.jpg"/>  
 
 ## Usage
-The extension will add a PNG Info block above the gallery on the right side of the page.  
-You can also control whether to expand the menu display text information by default in the settings.
+The extension will add a single line "PNG Info" block above the result gallery.  
+Drop the image file into the image-box in the upper left corner just like you are using original PNG Info.  
+And you can press the ℹ️ button to expand or collapse the generation info text.  
 
 ## Install
 1. Go to SD WebUI's `extension` tab
